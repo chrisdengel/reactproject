@@ -1,0 +1,15 @@
+ .main {
+     height: 100vh;
+     background: url('pics/bike.jpg') center center no-repeat;
+     background-size: cover;
+ }
+
+ .h1, h1 {
+     text-align: left;
+
+ }
+
+ .p {
+     float: right   ;
+     text-align: right;
+ }
